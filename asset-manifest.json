@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/MovieTracker/static/js/main.db8008f7.chunk.js",
+    "main.js.map": "/MovieTracker/static/js/main.db8008f7.chunk.js.map",
+    "runtime-main.js": "/MovieTracker/static/js/runtime-main.68690711.js",
+    "runtime-main.js.map": "/MovieTracker/static/js/runtime-main.68690711.js.map",
+    "static/js/2.3ca317da.chunk.js": "/MovieTracker/static/js/2.3ca317da.chunk.js",
+    "static/js/2.3ca317da.chunk.js.map": "/MovieTracker/static/js/2.3ca317da.chunk.js.map",
+    "index.html": "/MovieTracker/index.html",
+    "static/js/2.3ca317da.chunk.js.LICENSE.txt": "/MovieTracker/static/js/2.3ca317da.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/MovieTracker/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/MovieTracker/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/MovieTracker/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/MovieTracker/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68690711.js",
+    "static/js/2.3ca317da.chunk.js",
+    "static/js/main.db8008f7.chunk.js"
+  ]
+}
