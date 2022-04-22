@@ -3,7 +3,7 @@ import { Wrapper,Content } from "./Grid-styles"
 
 
 function Grid({header,children}){
-console.log(children);
+// console.log(children);
     return(
         <Wrapper>
             <h1>{header}</h1>

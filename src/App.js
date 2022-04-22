@@ -1,13 +1,13 @@
-import React from 'react';
+import React from "react";
 //styles
-import {GlobalStyle} from './GlobalStyles'
+import { GlobalStyle } from "./GlobalStyles";
 //components
-import Header from "./components/Header/Header"
+import Header from "./components/Header/Header";
 import Home from "./components/Home";
 //routing
-import {BrowserRouter as Router,Link,Switch,Route} from "react-router-dom"
-import Movie from './components/Movie';
-import NotFound from "./components/NotFound"
+import { BrowserRouter as Router, Link, Switch, Route } from "react-router-dom";
+import Movie from "./components/Movie";
+import NotFound from "./components/NotFound";
 
 function App() {
   return (
@@ -15,9 +15,9 @@ function App() {
       <GlobalStyle />
       <Header />
       <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/movie/:movieId" component={Movie} />
-        <Route path="/*" component={NotFound} />
+        <Route path="/MovieTracker/" exact component={Home} />
+        <Route path="/MovieTracker/movie/:movieId" component={Movie} />
+        <Route path="/MovieTracker/*" component={NotFound} />
       </Switch>
     </Router>
   );
