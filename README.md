@@ -1,6 +1,6 @@
 # Movie Tracker
 
-#### Find all about your favorite movies here
+#### Find all about your favorite movies here (See GitHub Environment for deployment)
 
 * Get recommendations on latest movies
 * Get details about movies you want to watch
