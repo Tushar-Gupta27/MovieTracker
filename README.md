@@ -15,3 +15,11 @@
 * Styled-components
 * Axios
 * CSS / JS
+
+*************************** 
+# Upcoming Features
+* Info about where to watch the movie
+* See the trailers on the movie page
+* Actors details page
+* Responsive Design
+* Login and Rate the movies
