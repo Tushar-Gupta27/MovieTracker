@@ -1,4 +1,4 @@
-# Movie Tracker
+# [Movie Tracker](https://tushar-gupta27.github.io/Natours-Site/)
 
 #### Find all about your favorite movies here (See GitHub Environment for deployment)
 
@@ -7,7 +7,14 @@
 * Watching an old movie? Search for it
 
 *****************************
+## Home Page
 ![MovieTrackerImage](./images/appSS.png)
+## Home Page Scrolled
+![MovieTrackerImage](./images/appSS2.png)
+## Individual Movie Page
+![MovieTrackerImage](./images/appSS3.png)
+## Individual Movie Page Scrolled
+![MovieTrackerImage](./images/appSS4.png)
 
 *******************************
 # Technologies Used
