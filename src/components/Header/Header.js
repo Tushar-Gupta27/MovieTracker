@@ -10,7 +10,7 @@ function Header(){
     return(
     <Wrapper>
         <Content>
-            <Link to="/"><LogoImg src={RMDBLogo} alt="rmdb-logo" /></Link>
+            <Link to="/MovieTracker"><LogoImg src={RMDBLogo} alt="rmdb-logo" /></Link>
             <TMDBLogoImg src={TMDBLogo} alt = "tmdb-logo"/>
         </Content>
     </Wrapper>)

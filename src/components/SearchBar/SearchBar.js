@@ -5,7 +5,6 @@ import SearchIcon from "../../images/search-icon.svg"
 
 
 function SearchBar({setSearchTerm}){
-
     const [search,setSearch] = useState("");
     const [border,setBorder] = useState(false);
     const initial = useRef(true);
