@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/MovieTracker/static/js/main.a198ac15.chunk.js",
-    "main.js.map": "/MovieTracker/static/js/main.a198ac15.chunk.js.map",
+    "main.js": "/MovieTracker/static/js/main.e6792cae.chunk.js",
+    "main.js.map": "/MovieTracker/static/js/main.e6792cae.chunk.js.map",
     "runtime-main.js": "/MovieTracker/static/js/runtime-main.68690711.js",
     "runtime-main.js.map": "/MovieTracker/static/js/runtime-main.68690711.js.map",
-    "static/js/2.3ca317da.chunk.js": "/MovieTracker/static/js/2.3ca317da.chunk.js",
-    "static/js/2.3ca317da.chunk.js.map": "/MovieTracker/static/js/2.3ca317da.chunk.js.map",
+    "static/js/2.32a6151a.chunk.js": "/MovieTracker/static/js/2.32a6151a.chunk.js",
+    "static/js/2.32a6151a.chunk.js.map": "/MovieTracker/static/js/2.32a6151a.chunk.js.map",
     "index.html": "/MovieTracker/index.html",
-    "static/js/2.3ca317da.chunk.js.LICENSE.txt": "/MovieTracker/static/js/2.3ca317da.chunk.js.LICENSE.txt",
+    "static/js/2.32a6151a.chunk.js.LICENSE.txt": "/MovieTracker/static/js/2.32a6151a.chunk.js.LICENSE.txt",
     "static/media/no_image.22d2aa4d.jpg": "/MovieTracker/static/media/no_image.22d2aa4d.jpg",
     "static/media/react-movie-logo.42955eb6.svg": "/MovieTracker/static/media/react-movie-logo.42955eb6.svg",
     "static/media/search-icon.cd820f5a.svg": "/MovieTracker/static/media/search-icon.cd820f5a.svg",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.68690711.js",
-    "static/js/2.3ca317da.chunk.js",
-    "static/js/main.a198ac15.chunk.js"
+    "static/js/2.32a6151a.chunk.js",
+    "static/js/main.e6792cae.chunk.js"
   ]
 }
