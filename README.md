@@ -1,4 +1,4 @@
-# [Movie Tracker](https://tushar-gupta27.github.io/Natours-Site/)
+# [Movie Tracker](https://tushar-gupta27.github.io/MovieTracker/)
 
 #### Find all about your favorite movies here (See GitHub Environment for deployment)
 
